@@ -127,7 +127,7 @@ export default function AudioConverter() {
     <>
       <div className="container">
         <div className="header">
-          <h1>🎵 Audio Converter</h1>
+          <h1>🎵 awaaj badlo</h1>
           <p>Convert your audio files to any format</p>
         </div>
 
